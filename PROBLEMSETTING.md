@@ -1,7 +1,9 @@
 # Project Title: Enhancing Legal Document Summarization with LLM
 
 ## Problem Setting
-Given a collection of legal documents \( D = \{d_1, d_2, ..., d_N\} \) where each document \( d_i \) is a comprehensive text composed of legal terminology and complex sentence structures, our goal is to develop a Large Language Model (LLM) based system \( f(D) \) that generates concise, accurate summaries \( S = \{s_1, s_2, ..., s_N\} \) for each document. The challenge involves not only extracting key information but also preserving the legal context and nuances crucial for understanding. Our objective is to facilitate faster and more efficient review processes for legal professionals, enhancing accessibility to vital information.
+
+Given a collection of legal documents $D = \{d_1, d_2, ..., d_N\}$ where each document $d_i$ is a comprehensive text composed of legal terminology and complex sentence structures, our goal is to develop a Large Language Model (LLM) based system $f(D)$ that generates concise, accurate summaries $S = \{s_1, s_2, ..., s_N\}$ for each document. The challenge involves not only extracting key information but also preserving the legal context and nuances crucial for understanding. Our objective is to facilitate faster and more efficient review processes for legal professionals, enhancing accessibility to vital information.
+
 
 Dataset: We will adapt the preprocessed dataset from  paper *Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation* accepted at AACL-IJCNLP 2022.  It includes 3 datasets:
 - IN-Abs : 7130 Indian Supreme Court full case documents & their `abstractive' summaries, obtained from http://www.liiofindia.org/in/cases/cen/INSC/
