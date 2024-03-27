@@ -9,7 +9,6 @@ Given a collection of legal documents $D = \{d_1, d_2, ..., d_N\}$ where each do
 We will adapt the preprocessed dataset from  paper *Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation* accepted at AACL-IJCNLP 2022.  It includes 3 datasets:
 - IN-Abs : 7130 Indian Supreme Court full case documents & their `abstractive' summaries, obtained from http://www.liiofindia.org/in/cases/cen/INSC/
 - IN-Ext : 50 Indian Supreme Court case documents & their `extractive' summaries, written by two law experts (A1, A2).
-- UK-Abs : 793 United Kingdom (U.K.) Supreme Court full case documents & their `abstractive' summaries, obtained from https://www.supremecourt.uk/decided-cases/
 
 [https://github.com/rezuanul/awesome-legal-nlp](https://github.com/rezuanul/awesome-legal-nlp)
 
